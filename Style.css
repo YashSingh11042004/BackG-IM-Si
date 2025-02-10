@@ -1,0 +1,22 @@
+#one{
+         width: 400px;
+         height: 200px;
+         background-image: url(wp2722928.jpg);
+         background-size: cover;
+         margin: 10px;
+}
+#three{
+          width: 400px;
+          height: 200px;
+          background-image: url(wp2722928.jpg);
+          background-size: auto;
+          margin: 10px;
+}
+
+#two{
+          width: 400px;
+          height: 200px;
+          background-image: url(wp2722928.jpg);
+          background-size: contain;
+          margin: 10px;
+}
